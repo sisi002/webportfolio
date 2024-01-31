@@ -1,0 +1,87 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#landing {
+	background-color: #aafaeb;
+}
+
+#profile-picture {
+	border: 3px solid teal;
+}
+
+h1, h3, h4 {
+	color: teal;
+}
+
+.navbar, #footer {
+	background-color: teal ;
+
+}
+
+.strong {
+	color: teal;
+}
+
+.carousel-image {
+	height: 500px ;
+	width: 800px;
+}
+
+#adoptapet {
+	font-size: 11px;
+	color: black;
+	background-color: white;
+}
+
+#adoptacat {
+	font-size: 11px;
+	color: black;
+	background-color: white;
+}
+
+#adoptadog {
+	font-size: 11px;
+	color: black;
+	background-color: white;
+}
+
+#form-col {
+background-color: teal;
+}
+
+#form-send-btn {
+	border: 2px solid teal;
+ 	background-color: teal;
+}
+
+#tools {
+	background-image: url(./images/bubear.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+ .map-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* Aspect ratio: 16:9 */
+  }
+ .map-container iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 95%;
+  }
+
+ #projects {
+ 	background-image: url(https://images.template.net/116949/free-teal-geometric-background-edit-online.jpg); 
+ }
+
+ #contact {
+ 	color: teal;
+ 	background-color: #aafaeb;
+ }
